@@ -75,7 +75,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
     newHeading.append(newBlog);
 
-
     let newPara = document.createElement('P');
     newPara.textContent = "Some New Paragraph";
 
