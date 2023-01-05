@@ -88,7 +88,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
     let quote = document.querySelector('#quote-title')
     quote.addEventListener('click', randomQuote)
 
-
     // Part 9
     let applyHandlers = document.querySelectorAll('.blog-post')
     applyHandlers.forEach((handlers) => {
